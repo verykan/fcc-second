@@ -1,21 +1,41 @@
-html{
-    font-size:10px;
+#title{
+    padding-top:40px;
+    padding-bottom: 0;
+    border-bottom: 0;
+
 }
-body {
-    font-size:10px;
-    line-height: 2.0;
+.monkey{
+    background-color: red;
     text-align: center;
 }
-p {
-    font-size:px;
+.monkey img{
+    margin:auto;
 }
-body{
-    font-size: 20px;
+.monkey p {
+    padding-bottom:30px;
 }
-
+.monkeyd {
+    padding-top:5px;
+}
 #image {
-    max-width: 100%;
-    height: auto;
-    margin:0 auto;
+    height:auto;
+    max-width:100%;
+    }
+img{
+    display:block;
+    }
+li{text-align:;
+    }
+img-caption {
+      font-size:1
+    }
+.wiki {
+    margin-top:40px;
+    text-align : center;
 }
 
+h3 {
+    text-align: center;
+    background-color:
+    margin-top:0;
+}

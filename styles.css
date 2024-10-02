@@ -1,0 +1,21 @@
+html{
+    font-size:10px;
+}
+body {
+    font-size:10px;
+    line-height: 2.0;
+    text-align: center;
+}
+p {
+    font-size:px;
+}
+body{
+    font-size: 20px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin:0 auto;
+}
+
